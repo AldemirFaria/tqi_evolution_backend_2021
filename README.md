@@ -17,26 +17,17 @@ Sugestão para o back-end necessária para resolver o problema proposto pela TQI
 ![Regras de Negócio](https://github.com/AldemirFaria/tqi_evolution_backend_2021/blob/main/assets/Activity%20Diagram0.jpg)
 
 # Tecnologias utilizadas
-## Back end
-- Java
+## Sistema Back End
+- Java 11
 - Spring Boot
-- JPA / Hibernate
-- Maven
-
-## Implantação em produção
-- Back end: 
-- Banco de dados: 
-
-# Como executar o projeto
-
-## Back end
-Pré-requisitos: Java 11 e dependências mencionadas acima.
+- Spring Data JPA
+- H2 Database 
+- Gerenciador de Dependências Maven
 
 
 ```bash
 # clonar repositório
 git clone https://github.com/AldemirFaria/tqi_evolution_backend_2021
-
 
 
 # Autor
